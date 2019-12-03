@@ -1,0 +1,45 @@
+		
+body
+{
+    margin: 0 auto;
+    width: 90%;
+}
+.div-1{
+	width: 400px;
+	height: 300px;
+	background-color: royalblue;
+	margin: auto;
+	border-radius: 15%;
+}
+.hide{
+	display: none;
+}
+.btn-toggle{
+	margin: auto;
+	padding: 15px;
+	background-color: lightblue;
+
+}
+.colorRed{
+	background-color: red;
+	 /* Firefox */
+    -moz-transition: all 1s ease-in;
+    /* WebKit */
+    -webkit-transition: all 1s ease-in;
+    /* Opera */
+    -o-transition: all 1s ease-in;
+    /* Standard */
+    transition: all 1s ease-in;
+}
+.colorLimegreen{
+	background-color: limegreen;
+	 /* Firefox */
+    -moz-transition: all 1s ease-in;
+    /* WebKit */
+    -webkit-transition: all 1s ease-in;
+    /* Opera */
+    -o-transition: all 1s ease-in;
+    /* Standard */
+    transition: all 1s ease-in;
+}
+
